@@ -1,0 +1,39 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ATSAMC20J
+D SAM L21 Microchip SMART ARM-based Flash MCU, 48Mhz, 64K Flash, 8K SRAM, TQFP64
+K 32-bit ARM Cortex-M0+ MCU Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/60001477A.pdf
+$ENDCMP
+#
+$CMP ATSAML21J17B-AUT
+D SAM L21 Microchip SMART ARM-based Flash MCU, 48Mhz, 128K Flash, 16K SRAM, TQFP64
+K 32-bit ARM Cortex-M0+ MCU Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/60001477A.pdf
+$ENDCMP
+#
+$CMP ATSAML21J18B-AUT
+D SAM L21 Microchip SMART ARM-based Flash MCU, 48Mhz, 256K Flash, 32K SRAM, TQFP64
+K 32-bit ARM Cortex-M0+ MCU Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/60001477A.pdf
+$ENDCMP
+#
+$CMP FT2232D
+D Hi Speed Single Channel USB UART/FIFO, LQFP/QFN-48
+K FTDI USB Single UART FIFO
+F https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT232H.pdf
+$ENDCMP
+#
+$CMP FT232D
+D Hi Speed Single Channel USB UART/FIFO, LQFP/QFN-48
+K FTDI USB Single UART FIFO
+F https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT232H.pdf
+$ENDCMP
+#
+$CMP SX1509B
+D IO expander 16 GPIO, I2C, Interrupt, 1.2 - 3.6V, 5V tolerant, QFN28
+K IO expander 16 GPIO
+F https://www.semtech.com/uploads/documents/sx150x_89b.pdf
+$ENDCMP
+#
+#End Doc Library
